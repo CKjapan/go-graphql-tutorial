@@ -1,0 +1,4 @@
+# github.com/CKjapan/go-graphql-tutorial/server/graph
+graph/schema.resolvers.go:49:66: undefined: model.NewTodo
+graph/schema.resolvers.go:49:83: undefined: model.Todo
+graph/schema.resolvers.go:52:56: undefined: model.Todo
